@@ -27,7 +27,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
     "paper-tabs": "PolymerElements/paper-tabs#^1.7.0",
-    "app-layout": "^0.10.6",
+    "app-layout": "^1.0.1",
     "iron-resizable-behavior": "^1.0.5"
   },
   "devDependencies": {
